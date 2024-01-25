@@ -2,8 +2,8 @@
   "name": "Phone store",
   "short_name": "PhoneStore",
   "start_url": "index.html",
-  "theme_color": "#b88e2f",
-  "background_color": "#2196f3",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
   "display": "standalone",
   "icons": [
     {

@@ -4,17 +4,20 @@ function homepage(){
         <div className="App">
           <header className="App-header">
               <div className="logo">
+                <img src="/images/logo1.png" alt="logo" className="img-logo"/>
                 <p>ActiveVibe</p>
-                <img src="./logo1.png" alt="logo" />
               </div>
-            <nav>
-              <ul>
-                <li><a href="#">Em Destaque</a></li>
-                <li><a href="#">Categorias</a></li>
-                <li><a href="#">Contato</a></li>
-              </ul>
+              <input type="text" placeholder="O que você procura?" className="search"/>
+            <nav className="nav">
+              <div>
+                <img src="" alt="pessoa" />
+                <p>cadastrar</p>
+              </div>
+              <img src="" alt="carrinho" />
+
             </nav>
           </header>
+          <img src="/images/sport.png" alt="esporte" />
             <p>Encontre os melhores equipamentos esportivos para suas atividades favoritas!</p>
           <section id="featured" className="featured-products">
             <h2>Produtos em Destaque</h2>
